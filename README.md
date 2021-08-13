@@ -89,6 +89,10 @@ See [[Labs/10.0.0.1 (Andy)/00 - Overview]] for a fleshed out example Box Overvie
 
 I then create a note for each 'stage' of the box - commonly one for generic enumeration, one for each service I interact with beyond standard enum scripts, and one for each shell I gain as a specific user.
 
+### Resources
+
+You will find assorted OSCP resources in the `/Resources` folder. They vary from collections of advice posts on various forums, to extra cheatsheets and tools to make your life easier. Feel free to add to this folder as you find things.
+
 ### Obsidian Tricks
 
 Obsidian makes it super easy to build good notes. Here are some of the best features:
