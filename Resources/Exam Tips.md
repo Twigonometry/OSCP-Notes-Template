@@ -1,5 +1,13 @@
 # Exam Tips
 
+## Generic Exam Advice
+
+### From /u/tristanlogd
+
+![[Pasted image 20210418203944.png]]
+
+Source: [https://www.reddit.com/r/oscp/comments/k7x4o1/just_passed_oscpmy_journey_and_tips/](https://www.reddit.com/r/oscp/comments/k7x4o1/just_passed_oscpmy_journey_and_tips/)
+
 ## Taking Screenshots
 
 Proof screenshots for the exam [need to include](https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide#screenshot-requirements) the following:

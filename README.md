@@ -87,16 +87,23 @@ Within each folder is an index for the machine, which links all the related note
 
 See [[Labs/10.0.0.1 (Andy)/00 - Overview]] for a fleshed out example Box Overview.
 
+I then create a note for each 'stage' of the box - commonly one for generic enumeration, one for each service I interact with beyond standard enum scripts, and one for each shell I gain as a specific user.
+
 ### Obsidian Tricks
 
 Obsidian makes it super easy to build good notes. Here are some of the best features:
 - `Ctrl + K` for inserting links
-- `[[note]]` for referencing an internal note and creating a graph
+- `[[note]]` for referencing an internal note and creating a graph. You can use a pipe (`|`) to name the link, or a hash (`#`) to link to a heading in the note
 - `Ctrl + G` to view your graph
+- `Ctrl + L` to view a 'local graph' for a note - this lets you explore connections to a note
+
+You can add screenshots, headings, and any other formatting option supported by markdown.
+
+You can also make use of the document outline feature (in the right-hand side panel) for an automatically generated contents page.
 
 #### Screenshots
 
-Attachments (i.e. images) are set to be stored in the `Attachments` folder automatically. If you 
+Attachments (i.e. images) are set to be stored in the `Attachments` folder automatically. If you copy and paste an image into Obsidian it will be automatically named and indexed.
 
 ## Roadmap
 
@@ -108,3 +115,4 @@ To add to template:
 - [ ] Cheatsheets
 - [ ] Enable outlines plugin
 - [ ] Timeline plugin support
+- [ ] Flameshot setup
