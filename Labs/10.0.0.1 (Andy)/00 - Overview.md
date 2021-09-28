@@ -8,7 +8,7 @@ Machine Details:
 
 ## Box Outline
 
-Box outlines are useful for revisiting the box and seeing how you exploited it. They may help you find practical examples of exploits, or trigger you to think about 
+Box outlines are useful for revisiting the box and seeing how you exploited it. They may help you find practical examples of exploits, or trigger you to think about what you could improve
 
 **Enumeration**
 
@@ -20,7 +20,7 @@ What exploits did you try? Which ones worked?
 
 **Privilege Escalation**
 
-What user did you gain access on the box as? What did you find during local enumeration? How did you escalate your privileges/
+What user did you gain access on the box as? What did you find during local enumeration? How did you escalate your privileges?
 
 **Post Exploitation**
 
