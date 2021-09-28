@@ -6,6 +6,8 @@ The [[Course Notes Index|Course Notes]], [[Exam Index|Exam]], and [[Labs Index|L
 
 I cannot upload my OSCP notes due to OffSec policy, but I still wanted to share a useful resource. There are plenty of [[Report Templates]] out there, and some good [note-taking advice](https://www.youtube.com/watch?v=MQGozZzHUwQ), but I haven't seen a structured notes template before. Hopefully this will be useful for future students who want to supplement their learning.
 
+I've added a few resources to each of the notes, but they are there for you to flesh out (or delete) at your will. This is simply a template, and more detailed notes are available in my [[Cybersecurity Notes]] repository.
+
 ## Installation
 
 ### Installing Obsidian
@@ -115,8 +117,8 @@ To add to template:
 - [ ] Instructions for converting Lab report to a PDF
 - [ ] Workspaces
 - [ ] Hotkeys
-- [ ] Exam tips
-- [ ] Cheatsheets
-- [ ] Enable outlines plugin
+- [x] Exam tips
+- [x] Cheatsheets
+- [x] Enable outlines plugin
 - [ ] Timeline plugin support
 - [ ] Flameshot setup

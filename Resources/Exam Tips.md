@@ -1,12 +1,20 @@
 # Exam Tips
 
-## Generic Exam Advice
+## Writeups and Guides
+
+### From TJNull
+
+[https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)
 
 ### From /u/tristanlogd
 
 ![[Pasted image 20210418203944.png]]
 
 Source: [https://www.reddit.com/r/oscp/comments/k7x4o1/just_passed_oscpmy_journey_and_tips/](https://www.reddit.com/r/oscp/comments/k7x4o1/just_passed_oscpmy_journey_and_tips/)
+
+### From JohnJHacking
+
+[[https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/)]([https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/))
 
 ## Taking Screenshots
 
@@ -21,3 +29,9 @@ From within the directory that holds `proof.txt` (usually `C:\Users\Administrato
 Alternative commands are:
 - `ifconfig`
 - `netstat -ie` (not accepted in the exam, but can be used for your own personal purposes in the lab machines if above commands do not work)
+
+## Taking Breaks
+
+Take regular breaks!
+
+Try to set yourself regular timers to avoid rabbit holes, and move on after 30 minutes of trying something without progress.

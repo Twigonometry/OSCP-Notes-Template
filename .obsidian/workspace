@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Tools.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tools.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,6 +77,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "bebc0463f0feae2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -88,15 +96,15 @@
   },
   "active": "3d7d6acb4e46f794",
   "lastOpenFiles": [
-    "Resources/Untitled.md",
     "README.md",
-    "Resources/Report Templates.md",
+    "Cheatsheets/Privilege Escalation - Windows/Untitled.md",
+    "Cheatsheets/Useful Commands - Linux/Untitled.md",
+    "Cheatsheets/Common Tools/Untitled.md",
+    "Cheatsheets/Common Exploits/Untitled.md",
     "Resources/Cybersecurity Notes.md",
-    "Resources/Communities.md",
-    "Resources/Exam Tips.md",
+    "Labs/Network Scans.md",
+    "Labs/Live Hosts.md",
     "Labs/Lessons Learned.md",
-    "Labs/Labs Index.md",
-    "Exam/Exam Index.md",
-    "Labs/Untitled.md"
+    "Labs/Labs Index.md"
   ]
 }
