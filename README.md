@@ -85,7 +85,7 @@ I like keeping my notes within headings so that I can then link these headers to
 
 The [[Labs Index|Labs]] folder can be used to house writeups for machines in the labs. I've added a folder for each one, with `IP Address (Hostname)` as the title.
 
-Within each folder is an index for the machine, which links all the related notes on the graph, an Overview which outlines key machine details
+Within each folder is an index for the machine, which links all the related notes on the graph, an Overview which outlines key machine details, and usually a 'Lessons Learned' note which highlights important new skills or tools I learned solving the box (or things I did wrong).
 
 See [[Labs/10.0.0.1 (Andy)/00 - Overview]] for a fleshed out example Box Overview.
 
