@@ -122,3 +122,4 @@ To add to template:
 - [x] Enable outlines plugin
 - [ ] Timeline plugin support
 - [ ] Flameshot setup
+- [ ] Updated exam details
