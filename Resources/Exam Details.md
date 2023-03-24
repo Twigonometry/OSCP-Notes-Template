@@ -8,7 +8,9 @@
 
 **Available Points**
 - 100 Points from Machines
-- 5 Bonus Points from Report
+	- 20 each from 3 independent targets
+	- 40 points for FULL COMPROMISE of the Active Directory Set
+- 10 Bonus Points from Report
 
 **Passing Grade**
 - 70 Points needed to pass

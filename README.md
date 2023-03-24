@@ -8,6 +8,8 @@ I cannot upload my OSCP notes due to OffSec policy, but I still wanted to share 
 
 I've added a few resources to each of the notes, but they are there for you to flesh out (or delete) at your will. This is simply a template, and more detailed notes are available in my [[Cybersecurity Notes]] repository.
 
+**Important Note**: if you use this repository, make sure you do not publicly share your OSCP notes by accident (i.e. in a public fork of this repo) or OffSec will be [angry](https://cdn.emojidex.com/emoji/seal/Angryping.png).
+
 ## Installation
 
 ### Installing Obsidian
@@ -102,10 +104,21 @@ Obsidian makes it super easy to build good notes. Here are some of the best feat
 - `[[note]]` for referencing an internal note and creating a graph. You can use a pipe (`|`) to name the link, or a hash (`#`) to link to a heading in the note
 - `Ctrl + G` to view your graph
 - `Ctrl + L` to view a 'local graph' for a note - this lets you explore connections to a note
+- `Ctrl + Click` a note link to open it in a new tab (Obsidian [now supports tabs!](https://forum.obsidian.md/t/obsidian-release-v1-0-0/44873))
 
 You can add screenshots, headings, and any other formatting option supported by markdown.
 
 You can also make use of the document outline feature (in the right-hand side panel) for an automatically generated contents page.
+
+#### PDF Generation
+
+You can create a PDF of a note with the 'Export to PDF' button the kebab menu at the top of each note.
+
+![[Pasted image 20230324145839.png]]
+
+#### Website-Friendly Note Conversion
+
+If you want to host your notes on a website, you can convert them to a HTML-friendly format using my [writeup converter](https://github.com/Twigonometry/writeup-converter#website-formatter) tool - this combines all markdown files in a given folder into one HTML document, and reformats obsidian links (`[[]]`) and turns them into valid HTML tags.
 
 #### Screenshots
 

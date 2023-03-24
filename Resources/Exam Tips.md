@@ -16,6 +16,16 @@ Source: [https://www.reddit.com/r/oscp/comments/k7x4o1/just_passed_oscpmy_journe
 
 [[https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/)]([https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/))
 
+### My Writeup
+
+I did my OSCP back in 2021, before the new course was rolled out, which shifted focus away from Buffer Overflows . It has since then been updated again, with a wealth of new content and expansions on old modules. Unfortunately, even if you paid for the OSCP in the past you can't access the new content, despite already forking out over a grand...
+
+I think this change towards AD-focused content was a positive one, and will modernise the OSCP content a lot. However, I can no longer guarantee that this notes template is laid out in the optimal way for the new content, labs, and exam. You might need to do some tweaking!
+
+Neverthless, you can read my writeup of my OSCP experience here: https://www.mac-goodwin.com/blog/cyber/2021/10/16/oscp-experience.html
+
+The TLDR is that I learned a lot from my OSCP and thoroughly enjoyed the experience, but I believe the criticism of OffSec's predatory pricing is pretty much warranted. However, the course was still very valuable to me and made me a better hacker - if you can afford it, I recommend it, but remember there are lots of cheaper courses out there (including the [PEH course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)). Overall, the OSCP is still one of the most recognised certifications out there, and I can attest to its 'HR power' in job interviews and recruiting. OffSec critics don't like to admit it, but the letters next to your name grab the attention of employers, even if they don't mean you're a top-notch hacker.
+
 ## Taking Screenshots
 
 Proof screenshots for the exam [need to include](https://help.offensive-security.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide#screenshot-requirements) the following:
