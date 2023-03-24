@@ -134,7 +134,7 @@ Attachments (i.e. images) are set to be stored in the `Attachments` folder autom
 
 To add to template:
 - [x] Instructions for converting Lab report to a PDF
-- [ ] Workspaces
+- [x] Workspaces
 - [ ] Hotkeys
 - [x] Exam tips
 - [x] Cheatsheets
@@ -143,4 +143,4 @@ To add to template:
 - [ ] Flameshot setup
 - [x] Updated exam details
 - [x] AD set layout
-- [ ] Example Canvas for AD set
+- [x] Example Canvas for AD set
