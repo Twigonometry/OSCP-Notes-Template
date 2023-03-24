@@ -4,4 +4,4 @@ Machine Details:
 
 |IP|Hostname|Operating System|
 |---|---|---|
-|10.1.0.1|Sandy|Windows XP|
+|10.1.0.1|Sandy|Linux|
