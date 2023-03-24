@@ -10,6 +10,8 @@ I've added a few resources to each of the notes, but they are there for you to f
 
 **Important Note**: if you use this repository, make sure you do not publicly share your OSCP notes by accident (i.e. in a public fork of this repo) or OffSec will be [angry](https://cdn.emojidex.com/emoji/seal/Angryping.png).
 
+Some notes may have duplicate headers due to the changes in Obsidian v1.0. I've removed these where I've found them, but some still exist.
+
 ## Installation
 
 ### Installing Obsidian
@@ -110,6 +112,10 @@ You can add screenshots, headings, and any other formatting option supported by 
 
 You can also make use of the document outline feature (in the right-hand side panel) for an automatically generated contents page.
 
+#### Canvases
+
+Obsidian has a neat new feature called a Canvas which can be used to lay out notes in a free-flowing diagram. You can link existing notes, add images, and create canvas-embedded notes that only exist in the canvas. It's potentially useful for Active Directory sets - I've included an [[Active Directory Set.canvas|Example]] in the `Exam` folder.
+
 #### PDF Generation
 
 You can create a PDF of a note with the 'Export to PDF' button the kebab menu at the top of each note.
@@ -136,3 +142,5 @@ To add to template:
 - [ ] Timeline plugin support
 - [ ] Flameshot setup
 - [x] Updated exam details
+- [x] AD set layout
+- [ ] Example Canvas for AD set

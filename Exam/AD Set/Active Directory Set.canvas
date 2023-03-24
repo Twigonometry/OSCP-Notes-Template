@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"078c52b2510d2610","x":-260,"y":-460,"width":400,"height":400,"type":"file","file":"Exam/AD Set/AD Set Domain Index.md"},
+		{"id":"7dbbd7daef43d049","x":-740,"y":140,"width":400,"height":400,"type":"file","file":"Exam/AD Set/Domain Controller/Exam DC Index.md"},
+		{"id":"6c134f90e268b745","x":220,"y":140,"width":400,"height":400,"type":"file","file":"Exam/Independent Machine 1/Exam Machine 1 Index.md"},
+		{"id":"b292f3d377778c1b","x":-260,"y":140,"width":400,"height":400,"type":"file","file":"Exam/Independent Machine 2/Exam Machine 2 Index.md"},
+		{"id":"54de32064c482631","x":288,"y":720,"width":265,"height":80,"type":"text","text":"Compromise via client-side attack"},
+		{"id":"aee10bc68d6c182d","x":-185,"y":730,"width":250,"height":60,"type":"text","text":"Pivot with creds"}
+	],
+	"edges":[
+		{"id":"b086030cf5b48ec1","fromNode":"54de32064c482631","fromSide":"top","toNode":"6c134f90e268b745","toSide":"bottom"},
+		{"id":"a3633ad5c6b0952f","fromNode":"54de32064c482631","fromSide":"left","toNode":"aee10bc68d6c182d","toSide":"right"},
+		{"id":"7aec2d392dbcf08f","fromNode":"aee10bc68d6c182d","fromSide":"top","toNode":"b292f3d377778c1b","toSide":"bottom"},
+		{"id":"be6a69407befc7f2","fromNode":"aee10bc68d6c182d","fromSide":"left","toNode":"7dbbd7daef43d049","toSide":"bottom"}
+	]
+}

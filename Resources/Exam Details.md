@@ -12,6 +12,8 @@
 	- 40 points for FULL COMPROMISE of the Active Directory Set
 - 10 Bonus Points from Report
 
+Since the course updates ([2022](https://www.offsec.com/offsec/oscp-exam-structure/) and [2023](https://www.offsec.com/offsec/pen-200-2023/)), good organisation of linked machines is more important than ever
+
 **Passing Grade**
 - 70 Points needed to pass
 

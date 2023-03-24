@@ -18,7 +18,7 @@ Source: [https://www.reddit.com/r/oscp/comments/k7x4o1/just_passed_oscpmy_journe
 
 ### My Writeup
 
-I did my OSCP back in 2021, before the new course was rolled out, which shifted focus away from Buffer Overflows . It has since then been updated again, with a wealth of new content and expansions on old modules. Unfortunately, even if you paid for the OSCP in the past you can't access the new content, despite already forking out over a grand...
+I did my OSCP back in 2021, before the [new course](https://www.offsec.com/offsec/oscp-exam-structure/) was rolled out, which shifted focus away from Buffer Overflows . It has since then been [updated again](https://www.offsec.com/offsec/pen-200-2023/), with a wealth of new content and expansions on old modules. Unfortunately, even if you paid for the OSCP in the past you can't access the new content, despite already forking out over a grand...
 
 I think this change towards AD-focused content was a positive one, and will modernise the OSCP content a lot. However, I can no longer guarantee that this notes template is laid out in the optimal way for the new content, labs, and exam. You might need to do some tweaking!
 
