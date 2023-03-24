@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17d4bae8ea6ab635",
+        "id": "2e2067be550c900f",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1447d33b4d958a",
+            "id": "e6c1f0bfd59e7b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +99,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,17 +117,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c1447d33b4d958a",
+  "active": "45c4f1d872e58605",
   "lastOpenFiles": [
+    "Resources/Exam Tips.md",
+    "Resources/Report Templates.md",
+    "Resources/Tools.md",
+    "Exam/Exam Index.md",
+    "Exam/AD Set/AD Set Domain Index.md",
+    "Exam/AD Set/Password Spray (example.corp).md",
+    "Exam/AD Set/Active Directory Set.canvas",
+    "README.md",
     "Labs/Lab Loot.md",
     "Labs/Network Scans.md",
     "Labs/Live Hosts.md",
     "Labs/Lessons Learned.md",
     "Labs/Labs Index.md",
-    "Exam/Exam Index.md",
-    "Exam/AD Set/Active Directory Set.canvas",
-    "README.md",
-    "Resources/Exam Tips.md",
     "Exam/Independent Machine 1/Exam Machine 1 Index.md",
     "Exam/AD Set/Domain Controller/Exam DC Index.md",
     "Exam/AD Set/Client 1/00 - Overview.md",
@@ -136,18 +141,14 @@
     "Exam/Independent Machine 2/Exam Machine 2 Index.md",
     "Exam/Independent Machine 2/00 - Overview.md",
     "Exam/Independent Machine 1/00 - Overview.md",
-    "Exam/AD Set/Password Spray (example.corp).md",
-    "Exam/AD Set/AD Set Domain Index.md",
     "Exam/AD Set/Domain Controller/00 - Overview.md",
     "Exam/AD Set/Client 2/Exam Client 2 Index.md",
     "Exam/AD Set/Client 2/00 - Overview.md",
     "Exam/AD Set/Client 1/Exam Client 1 Index.md",
     "Labs/10.0.0.1 (Andy)/00 - Overview.md",
-    "Exam/AD Set/Client 1/05.md",
     "Exam/AD Set/Client 2",
     "Exam/AD Set/Client 1",
     "Exam/AD Set/Domain Controller",
-    "Exam/Untitled.md",
     "Exam/Independent Machine 3",
     "Exam/Independent Machine 2",
     "Exam/Independent Machine 1",

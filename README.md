@@ -116,6 +116,10 @@ You can also make use of the document outline feature (in the right-hand side pa
 
 Obsidian has a neat new feature called a Canvas which can be used to lay out notes in a free-flowing diagram. You can link existing notes, add images, and create canvas-embedded notes that only exist in the canvas. It's potentially useful for Active Directory sets - I've included an [[Active Directory Set.canvas|Example]] in the `Exam` folder.
 
+#### Workspaces
+
+You can open a workspace using the workspace button in the sidebar - this loads a saved layout of notes. You can group together notes you open together frequently (such as a specific lab machine and notes on relevant exploits from the course material) and save your current workspace using the 'save' button.
+
 #### PDF Generation
 
 You can create a PDF of a note with the 'Export to PDF' button the kebab menu at the top of each note.

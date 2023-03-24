@@ -78,7 +78,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 300,
+        "collapsed": true
       },
       "right": {
         "id": "43f2b1dd61471c59",
@@ -303,5 +304,5 @@
       "active": "646461a817ee0222"
     }
   },
-  "active": "Labs"
+  "active": "Exam"
 }
