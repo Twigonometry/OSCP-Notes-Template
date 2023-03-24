@@ -127,7 +127,7 @@ Attachments (i.e. images) are set to be stored in the `Attachments` folder autom
 ## Roadmap
 
 To add to template:
-- [ ] Instructions for converting Lab report to a PDF
+- [x] Instructions for converting Lab report to a PDF
 - [ ] Workspaces
 - [ ] Hotkeys
 - [x] Exam tips
@@ -135,4 +135,4 @@ To add to template:
 - [x] Enable outlines plugin
 - [ ] Timeline plugin support
 - [ ] Flameshot setup
-- [ ] Updated exam details
+- [x] Updated exam details
