@@ -1,5 +1,3 @@
-# Labs Index
-
 ## Accessing the Labs
 
 **Add your personalised Control Panel link here**

@@ -1,5 +1,3 @@
-# Exam Tips
-
 ## Writeups and Guides
 
 ### From TJNull

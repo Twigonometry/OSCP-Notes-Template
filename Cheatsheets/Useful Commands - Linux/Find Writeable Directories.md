@@ -1,5 +1,3 @@
-# Find Writeable Directories
-
 ```
 find / -writable -type d 2>/dev/null # world-writeable folders
 find / -perm -222 -type d 2>/dev/null # world-writeable folders

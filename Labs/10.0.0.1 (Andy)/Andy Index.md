@@ -1,5 +1,3 @@
-# Andy Index
-
 Overview: [[Labs/10.0.0.1 (Andy)/00 - Overview]]
 
 Enumeration: [[Labs/10.0.0.1 (Andy)/05 - Enumeration]]

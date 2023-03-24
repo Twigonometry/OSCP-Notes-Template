@@ -1,5 +1,3 @@
-# Communities
-
 ## Offsec Forums
 
 [https://forums.offensive-security.com](https://forums.offensive-security.com)

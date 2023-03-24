@@ -1,5 +1,3 @@
-# Live Hosts
-
 Track live lab hosts here. I found it helps to add notes about the host after the IP address, so I can identify my next target.
 
 **Highlight** any exploits that may identify low-hanging fruit.

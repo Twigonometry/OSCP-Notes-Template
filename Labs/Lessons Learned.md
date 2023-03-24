@@ -1,5 +1,3 @@
-# Lessons Learned
-
 In this note I collected all the key things I learned on the labs - useful commands for obscure services, alternative ways to enumerate for niche or well-hidden files, common pitfalls and issues with specific services or techniques, and things I wished I'd known when stuck in a rabbit hole for hours.
 
 These lessons can really be anything - the purpose of this note is to look back at what mistakes you made, and to have a resource to look at when you're in a rut.

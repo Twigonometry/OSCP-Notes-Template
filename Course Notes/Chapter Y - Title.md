@@ -1,5 +1,3 @@
-# Chapter Y
-
 ## Section 1
 
 ## Section 2

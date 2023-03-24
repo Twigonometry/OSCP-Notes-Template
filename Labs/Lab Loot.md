@@ -1,5 +1,3 @@
-# Lab Loot
-
 Store any secrets from the labs here. You may be able to reuse them.
 
 ## Emails

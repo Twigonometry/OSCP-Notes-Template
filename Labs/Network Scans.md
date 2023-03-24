@@ -1,5 +1,3 @@
-# Network Scans
-
 I ran the following commands to enumerate the whole lab environment.
 
 ## Network A

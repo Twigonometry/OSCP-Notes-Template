@@ -1,5 +1,3 @@
-# Exam Details
-
 ## Key Details
 
 **Length:**

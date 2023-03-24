@@ -1,5 +1,3 @@
-# Git Dumper
-
 ## Basic Usage
 
 ```bash

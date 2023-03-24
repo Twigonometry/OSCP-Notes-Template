@@ -1,5 +1,3 @@
-# Course Notes Index
-
 This folder contains the notes I've made on each chapter of the course material.
 
 ## Chapters

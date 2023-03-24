@@ -1,5 +1,3 @@
-# Chapter X - Title
-
 ## Section 1
 
 ### Subsection 1.1

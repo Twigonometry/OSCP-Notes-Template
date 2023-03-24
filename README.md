@@ -10,8 +10,6 @@ I've added a few resources to each of the notes, but they are there for you to f
 
 **Important Note**: if you use this repository, make sure you do not publicly share your OSCP notes by accident (i.e. in a public fork of this repo) or OffSec will be [angry](https://cdn.emojidex.com/emoji/seal/Angryping.png).
 
-Some notes may have duplicate headers due to the changes in Obsidian v1.0. I've removed these where I've found them, but some still exist.
-
 ## Installation
 
 ### Installing Obsidian
@@ -61,9 +59,9 @@ In this Git Bash/terminal, type the following:
 git clone git@github.com:Twigonometry/OSCP-Notes-Template.git
 ```
 
-If you are uncomfortable using the command line, you can install [GitHub Desktop](https://desktop.github.com/) instead.
+If you are uncomfortable using the command line, you can install [GitHub Desktop](https://desktop.github.com/) instead (but you'll need to learn it soon enough!)
 
-Once you have cloned the repsitory, open Obsidian and click `Open folder as vault`, then select the `OSCP-Notes-Template` folder that was just created by Git. You're ready to go!
+Once you have cloned the repository, open Obsidian and click `Open folder as vault`, then select the `OSCP-Notes-Template` folder that was just created by Git. You're ready to go!
 
 ## Usage
 
@@ -78,6 +76,8 @@ Here is an example of the graph Obsidian can generate, with all related notes li
 ![[Pasted image 20210813180944.png]]
 
 Organising notes this way may seem like a lot of overhead. I don't recommend making your notes this fleshed out while solving the box, but I do think it is useful to go back and complete this process after you've finished. It will help consolidate what you've learned, and make examples of exploits easier to find during the exam.
+
+You can treat this as a true [Zettelkasten](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/), with each note representing a [[Find Writeable Directories|singular concept]] - or you can have notes that show [[15 - Shell as Andy|a narrative]]. I prefer a mix - notes on tools are good as singular items, and writeups of machines are good to read in one long document. Cheat sheets can be used to link the two with examples.
 
 ### Course Content
 
@@ -114,25 +114,29 @@ You can also make use of the document outline feature (in the right-hand side pa
 
 #### Canvases
 
-Obsidian has a neat new feature called a Canvas which can be used to lay out notes in a free-flowing diagram. You can link existing notes, add images, and create canvas-embedded notes that only exist in the canvas. It's potentially useful for Active Directory sets - I've included an [[Active Directory Set.canvas|Example]] in the `Exam` folder.
+Obsidian has a neat new feature called a Canvas which can be used to lay out notes in a free-flowing diagram. You can link existing notes, add images, and create notes that only exist in the canvas. It's potentially useful for Active Directory sets - I've included an [[Active Directory Set.canvas|Example]] in the `/Exam` folder.
 
 #### Workspaces
 
-You can open a workspace using the workspace button in the sidebar - this loads a saved layout of notes. You can group together notes you open together frequently (such as a specific lab machine and notes on relevant exploits from the course material) and save your current workspace using the 'save' button.
+You can open a workspace using the workspace button in the left-hand sidebar - this loads a saved layout of notes. You can group together notes you open together frequently (such as a specific lab machine and notes on relevant exploits from the course material) and save your current workspace using the 'save' button.
 
 #### PDF Generation
 
-You can create a PDF of a note with the 'Export to PDF' button the kebab menu at the top of each note.
+You can create a PDF of a note with the 'Export to PDF' button in the kebab menu at the top of each note.
 
 ![[Pasted image 20230324145839.png]]
+
+Bear in mind that Obsidian links will no longer work.
 
 #### Website-Friendly Note Conversion
 
 If you want to host your notes on a website, you can convert them to a HTML-friendly format using my [writeup converter](https://github.com/Twigonometry/writeup-converter#website-formatter) tool - this combines all markdown files in a given folder into one HTML document, and reformats obsidian links (`[[]]`) and turns them into valid HTML tags.
 
+Remember not to host your writeups or any OffSec course content online...
+
 #### Screenshots
 
-Attachments (i.e. images) are set to be stored in the `Attachments` folder automatically. If you copy and paste an image into Obsidian it will be automatically named and indexed.
+Attachments (i.e. images) are set to be stored in the `/Attachments` folder automatically. If you copy and paste an image into Obsidian it will be automatically named and indexed.
 
 ## Roadmap
 
