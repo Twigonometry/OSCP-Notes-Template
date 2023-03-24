@@ -43,7 +43,7 @@ This machine involved...
 
 ## Machine 3
 
-[[Exam Machine 2 Index]]
+[[Exam Machine 3 Index]]
 
 ### Todo
 

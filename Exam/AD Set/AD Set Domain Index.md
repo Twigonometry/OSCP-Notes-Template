@@ -2,6 +2,8 @@ Domain Name: example.corp
 
 Machines:
 - Domain Controller: [[Exam DC Index]]
+- Client 1: [[Exam Client 1 Index]]
+- Client 2: [[Exam Client 2 Index]]
 
 ## Attack Overview
 
