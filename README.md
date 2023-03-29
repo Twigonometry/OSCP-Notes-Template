@@ -2,6 +2,8 @@
 
 **Important Note**: if you use this repository, make sure you do not publicly share your OSCP notes by accident (i.e. in a public fork of this repo) or OffSec will be [angry](https://cdn.emojidex.com/emoji/seal/Angryping.png). I am not responsible if you do so and lose access to your course - please be careful and clone this resource locally rather than forking it! If you want your notes on GitHub (which I agree is useful) follow these steps to create a private fork: https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private
 
+## Introduction
+
 This is a template for an Obsidian Vault used to store OSCP notes. Obsidian allows building a highly connected, searchable resource that you can use to find examples of code snippets and connect related machines.
 
 The [[Course Notes Index|Course Notes]], [[Exam Index|Exam]], and [[Labs Index|Labs]] folders contain template folders for you to add your notes for these respective sections to.
