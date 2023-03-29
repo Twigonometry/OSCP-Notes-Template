@@ -1,5 +1,7 @@
 # OSCP Notes Template
 
+**Important Note**: if you use this repository, make sure you do not publicly share your OSCP notes by accident (i.e. in a public fork of this repo) or OffSec will be [angry](https://cdn.emojidex.com/emoji/seal/Angryping.png). I am not responsible if you do so and lose access to your course - please be careful and clone this resource locally rather than forking it! If you want your notes on GitHub (which I agree is useful) follow these steps to create a private fork: https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private
+
 This is a template for an Obsidian Vault used to store OSCP notes. Obsidian allows building a highly connected, searchable resource that you can use to find examples of code snippets and connect related machines.
 
 The [[Course Notes Index|Course Notes]], [[Exam Index|Exam]], and [[Labs Index|Labs]] folders contain template folders for you to add your notes for these respective sections to.
@@ -7,8 +9,6 @@ The [[Course Notes Index|Course Notes]], [[Exam Index|Exam]], and [[Labs Index|L
 I cannot upload my OSCP notes due to OffSec policy, but I still wanted to share a useful resource. There are plenty of [[Report Templates]] out there, and some good [note-taking advice](https://www.youtube.com/watch?v=MQGozZzHUwQ), but I haven't seen a structured notes template before. Hopefully this will be useful for future students who want to supplement their learning.
 
 I've added a few resources to each of the notes, but they are there for you to flesh out (or delete) at your will. This is simply a template, and more detailed notes are available in my [[Cybersecurity Notes]] repository.
-
-**Important Note**: if you use this repository, make sure you do not publicly share your OSCP notes by accident (i.e. in a public fork of this repo) or OffSec will be [angry](https://cdn.emojidex.com/emoji/seal/Angryping.png).
 
 ## Installation
 
